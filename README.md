@@ -17,7 +17,7 @@ I work primarily in Java and Python.
 ## Projects worth looking at
 
 **[whatsapp-clone](https://github.com/caadjo/whatsapp-clone)**
-Full-stack real-time messaging platform. Spring Boot + Angular 19 + WebSockets (STOMP/SockJS) + Keycloak (OAuth2/OIDC) + PostgreSQL + Docker Compose.
+Full-stack real-time messaging platform. WebSockets + Keycloak  + PostgreSQL + Docker Compose.
 
 **[http-server](https://github.com/caadjo/http-server)**
 HTTP/1.1 server in raw Python. No Flask, no Django. Custom byte-stream parser, TCP socket handling, full request-response lifecycle at the transport layer.
