@@ -1,6 +1,6 @@
 # Caio Veloso Dias
 
-Computer Science student at IFNMG, graduating Dec 2026. Strong foundation in systems programming, networking, and concurrent programming.
+Computer Science student at IFNMG, graduating Jun 2027. Strong foundation in systems programming, networking, and concurrent programming.
 
 I work primarily in Java and Python. 
 
